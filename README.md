@@ -1,1 +1,1 @@
-https://github.com/RotenBart/rsschool-cv/cv
+https://RotenBart.github.io/rsschool-cv/cv
